@@ -6,7 +6,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 ### Basic Formatting
 
 - [x] Create `index.html` and `style.css`
-- [ ] Choose different color & font to distinguish from swim lesson site
+- [x] Choose different color & font to distinguish from swim lesson site
 - [ ] Add all pages and menu buttons
   - [ ] CV
   - [ ] Publications & Presentations
