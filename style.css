@@ -1,45 +1,39 @@
 /* defining some variables */
 
-.mukta-malar-extralight {
-  font-family: "Mukta Malar", sans-serif;
-  font-weight: 200;
-  font-style: normal;
-}
-
-.mukta-malar-light {
-  font-family: "Mukta Malar", sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
-.mukta-malar-regular {
-  font-family: "Mukta Malar", sans-serif;
+.crimson-text-regular {
+  font-family: "Crimson Text", serif;
   font-weight: 400;
   font-style: normal;
 }
 
-.mukta-malar-medium {
-  font-family: "Mukta Malar", sans-serif;
-  font-weight: 500;
-  font-style: normal;
-}
-
-.mukta-malar-semibold {
-  font-family: "Mukta Malar", sans-serif;
+.crimson-text-semibold {
+  font-family: "Crimson Text", serif;
   font-weight: 600;
   font-style: normal;
 }
 
-.mukta-malar-bold {
-  font-family: "Mukta Malar", sans-serif;
+.crimson-text-bold {
+  font-family: "Crimson Text", serif;
   font-weight: 700;
   font-style: normal;
 }
 
-.mukta-malar-extrabold {
-  font-family: "Mukta Malar", sans-serif;
-  font-weight: 800;
-  font-style: normal;
+.crimson-text-regular-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.crimson-text-semibold-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.crimson-text-bold-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: italic;
 }
 
 @mixin flexbox() {
@@ -76,8 +70,8 @@
 }
 
 :root {
-  --bg-drkbl: #1D0B78;
-  --font: 'Mukta Malar';
+  --bg-drkbl: #34cca7;
+  --font: 'Crimson Text';
 }
 
 html, body {
