@@ -17,8 +17,8 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 ### Content
 
 - [ ] Front page
-  - [ ] Research interests
-  - [ ] ORCID, GitHub, ResearchGate, LinkedIn
+  - [x] Research interests
+  - [x] ORCID, GitHub, ResearchGate, LinkedIn
   - [ ] Contact info
 - [ ] CV - Full CV just like the google doc
 - [ ] Publications & Presentations - list from CV
