@@ -171,7 +171,16 @@ strong {
 
 
 .btn {
-  color: #06437a; 
+  color: #0F4569; 
+  background: var(--bg-drkbl);
+  padding: 10px 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration: none; 
+  border-radius: 15px;
+}
+.btn a:visited {
+  color: #0F4569; 
   background: var(--bg-drkbl);
   padding: 10px 30px;
   margin-left: 20px;
