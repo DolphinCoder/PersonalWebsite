@@ -188,6 +188,7 @@ nav {
   }
 
 nav a:visited { /* Changes color of visited links */
+  color: #800080
 }
 
 nav ul {
