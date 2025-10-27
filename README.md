@@ -15,6 +15,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 - [x] Add GitHub and LinkedIn and ResearchGate links
 - [ ] Upload images to GitHub repo - some of me doing research, some underwater kelp photography for front page
   - [ ] Check attribution on Hollings symposium pic
+  - [ ] Find PMEL intern group photo
 
 ### Content
 
@@ -24,7 +25,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] Contact info
 - [ ] CV - Full CV just like the google doc
 - [ ] Publications & Presentations - list from CV
-- [ ] Research - more detailed explanations of projects, maybe some images or PDF embeds of presentations and thesis?
+- [ ] Research - more detailed explanations of projects, maybe some images or PDF embeds of presentations and thesis? link PMEL blog post?
 - [ ] Teaching & Outreach - tutoring, TAing, volunteer work, science communication
 - [ ] Illustration - science-relevant art, lab notebook illustrations, graphical abstracts
 
