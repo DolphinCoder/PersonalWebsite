@@ -24,7 +24,12 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] ORCID, GitHub, ResearchGate, LinkedIn
   - [x] Contact info
 - [x] CV - Full CV just like the google doc
-- [ ] Publications & Presentations - list from CV
+- [ ] Publications & Presentations - list from CV, get PDFs of: 
+  - [ ] WSN25 presentation
+  - [x] AGU24/Reed symposium poster
+  - [x] WSN24 presentation
+  - [x] OSM23 poster
+  - [x] WSN22 poster
 - [ ] Research - more detailed explanations of projects, maybe some images or PDF embeds of presentations and thesis? link PMEL blog post?
 - [ ] Teaching & Outreach - tutoring, TAing, volunteer work, science communication
 - [ ] Illustration - science-relevant art, lab notebook illustrations, graphical abstracts
