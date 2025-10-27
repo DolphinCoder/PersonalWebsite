@@ -7,7 +7,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 
 - [x] Create `index.html` and `style.css`
 - [x] Choose different color & font to distinguish from swim lesson site
-- [ ] Add all pages and menu buttons
+- [x] Add all pages and menu buttons
   - [x] CV
   - [x] Publications & Presentations
   - [x] Research
