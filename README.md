@@ -23,7 +23,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] Research interests
   - [x] ORCID, GitHub, ResearchGate, LinkedIn
   - [x] Contact info
-- [ ] CV - Full CV just like the google doc
+- [x] CV - Full CV just like the google doc
 - [ ] Publications & Presentations - list from CV
 - [ ] Research - more detailed explanations of projects, maybe some images or PDF embeds of presentations and thesis? link PMEL blog post?
 - [ ] Teaching & Outreach - tutoring, TAing, volunteer work, science communication
