@@ -188,7 +188,7 @@ nav {
   }
 
 a:link { /*Changes color of unvisited links everywhere */
-  color: #0000EE;
+  color: #800080;
 }
 
 nav a:visited { /* Changes color of visited links in the nav bar */
