@@ -1,5 +1,5 @@
 # PersonalWebsite
-I am building a personal website for my CV and suchlike. It is a work in progress and not currently published.
+I am building a personal website for my CV and suchlike. It is a work in progress.
 
 # Ella's Personal Website TODO
 
@@ -16,10 +16,10 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 
 ### Content
 
-- [ ] Front page
+- [x] Front page
   - [x] Research interests
   - [x] ORCID, GitHub, ResearchGate, LinkedIn
-  - [ ] Contact info
+  - [x] Contact info
 - [ ] CV - Full CV just like the google doc
 - [ ] Publications & Presentations - list from CV
 - [ ] Research - more detailed explanations of projects, maybe some images or PDF embeds of presentations and thesis?
@@ -30,9 +30,9 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 - [ ] x
 
 ### Publishing
-- [ ] Buy a domain (ideas include: ellacrottyocean.com, ellacrottyscience.com)
-- [ ] Turn on email address obfuscation and anti-scraping
-- [ ] Attatch GitHub repository
+- [x] Buy a domain (ideas include: ellacrottyocean.com, ellacrottyscience.com)
+- [x] Turn on email address obfuscation and anti-scraping
+- [x] Attatch GitHub repository
 
 ### Post-publishing cosmetics & issue list 
 - [ ] x
