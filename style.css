@@ -171,7 +171,7 @@ strong {
 
 
 .btn {
-  color: #0F4569;
+  color: #06437a; 
   background: var(--bg-drkbl);
   padding: 10px 30px;
   margin-left: 20px;
@@ -205,7 +205,7 @@ nav {
   }
 
 a:link { /*Changes color of unvisited links everywhere */
-  color: #06437a;
+  color: #06437a; 
 }
 
 a:visited { /* Changes color of visited links everywhere */
