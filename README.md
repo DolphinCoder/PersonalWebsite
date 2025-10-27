@@ -8,11 +8,12 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 - [x] Create `index.html` and `style.css`
 - [x] Choose different color & font to distinguish from swim lesson site
 - [ ] Add all pages and menu buttons
-  - [ ] CV
-  - [ ] Publications & Presentations
-  - [ ] Research
-  - [ ] Teaching & Outreach
-- [ ] Add footer with GitHub and LinkedIn and ResearchGate links
+  - [x] CV
+  - [x] Publications & Presentations
+  - [x] Research
+  - [x] Teaching & Outreach
+- [x] Add GitHub and LinkedIn and ResearchGate links
+- [ ] Upload images to GitHub repo - some of me doing research, some underwater kelp photography for front page
 
 ### Content
 
