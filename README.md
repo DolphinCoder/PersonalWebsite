@@ -13,7 +13,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] Research
   - [x] Teaching & Outreach
 - [x] Add GitHub and LinkedIn and ResearchGate links
-- [ ] Upload images to GitHub repo - some of me doing research, some underwater kelp photography for front page
+- [x] Upload images to GitHub repo - some of me doing research, some underwater kelp photography for front page
   - [ ] Check attribution on Hollings symposium pic
   - [ ] Find PMEL intern group photo
 
