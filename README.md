@@ -25,6 +25,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 - [ ] Publications & Presentations - list from CV
 - [ ] Research - more detailed explanations of projects, maybe some images or PDF embeds of presentations and thesis?
 - [ ] Teaching & Outreach - tutoring, TAing, volunteer work, science communication
+- [ ] Illustration - science-relevant art, lab notebook illustrations, graphical abstracts
 
 ### Troubleshooting before publishing
 
