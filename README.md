@@ -30,9 +30,15 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] WSN24 presentation
   - [x] OSM23 poster
   - [x] WSN22 poster
-- [ ] Research - more detailed explanations of projects, maybe some images or PDF embeds of presentations and thesis? link PMEL blog post?
-- [ ] Teaching & Outreach - tutoring, TAing, volunteer work, science communication
-- [ ] Illustration - science-relevant art, lab notebook illustrations, graphical abstracts
+- [x] Research - more detailed explanations of projects, maybe some images or PDF embeds of presentations and thesis? link PMEL blog post?
+- [x] Teaching & Outreach - tutoring, TAing, volunteer work, science communication
+- [ ] Illustration - science-relevant art, lab notebook illustrations, graphical abstracts. Get images:
+  - [ ] Naturecultures final
+  - [ ] Sand tiger watercolor
+  - [ ] Molecular Plant Dev graphical abstract
+  - [ ] Kelp forest watercolor
+  - [ ] Greenboard mural
+  - [ ] Lab notebook pics from Naturecultures portfolio
 
 ### Troubleshooting before publishing
 
