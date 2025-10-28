@@ -40,17 +40,16 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] Greenboard mural
   - [x] Lab notebook pics from Naturecultures portfolio
 
-### Troubleshooting before publishing
+### Troubleshooting/running to do list
 
 - [ ] Posters as images instead of pdfs
 - [ ] Add images of me to the homepage
+- [ ] Make nav bar have a button hover color
+- [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
 
 ### Publishing
 - [x] Buy a domain (ideas include: ellacrottyocean.com, ellacrottyscience.com)
 - [x] Turn on email address obfuscation and anti-scraping
 - [x] Attatch GitHub repository
-
-### Post-publishing cosmetics & issue list 
-- [ ] x
 
 Credit: https://github.com/todomd/todo.md/tree/master
