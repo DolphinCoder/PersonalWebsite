@@ -6,7 +6,6 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 ### Troubleshooting/running to do list
 
 - [ ] Posters as images instead of pdfs
-- [x] Add images of me to the homepage
 - [ ] Make nav bar have a button hover color
 - [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
 - [ ] Make header menu look less weird in thin screen/mobile - top and bottom padding? resizing?
@@ -15,6 +14,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 - [ ] Add more images (lab group photos) to research page
   - [ ] Check attribution on Hollings symposium pic
   - [ ] Find PMEL intern group photo
+- [x] Add images of me to the homepage
 
 ### Basic Formatting
 
