@@ -42,7 +42,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 
 ### Troubleshooting before publishing
 
-- [ ] x
+- [ ] Posters as images instead of pdfs
 
 ### Publishing
 - [x] Buy a domain (ideas include: ellacrottyocean.com, ellacrottyscience.com)
