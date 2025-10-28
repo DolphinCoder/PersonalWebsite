@@ -32,17 +32,18 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] WSN22 poster
 - [x] Research - more detailed explanations of projects, maybe some images or PDF embeds of presentations and thesis? link PMEL blog post?
 - [x] Teaching & Outreach - tutoring, TAing, volunteer work, science communication
-- [ ] Illustration - science-relevant art, lab notebook illustrations, graphical abstracts. Get images:
-  - [ ] Naturecultures final
-  - [ ] Sand tiger watercolor
-  - [ ] Molecular Plant Dev graphical abstract
-  - [ ] Kelp forest watercolor
-  - [ ] Greenboard mural
-  - [ ] Lab notebook pics from Naturecultures portfolio
+- [x] Illustration - science-relevant art, lab notebook illustrations, graphical abstracts. Get images:
+  - [x] Naturecultures final
+  - [x] Sand tiger watercolor
+  - [x] Molecular Plant Dev graphical abstract
+  - [x] Kelp forest watercolor
+  - [x] Greenboard mural
+  - [x] Lab notebook pics from Naturecultures portfolio
 
 ### Troubleshooting before publishing
 
 - [ ] Posters as images instead of pdfs
+- [ ] Add images of me to the homepage
 
 ### Publishing
 - [x] Buy a domain (ideas include: ellacrottyocean.com, ellacrottyscience.com)
