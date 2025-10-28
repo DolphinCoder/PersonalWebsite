@@ -6,10 +6,15 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 ### Troubleshooting/running to do list
 
 - [ ] Posters as images instead of pdfs
-- [ ] Add images of me to the homepage
+- [x] Add images of me to the homepage
 - [ ] Make nav bar have a button hover color
 - [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
-- [ ] Make header menu look less weird in thin screen/mobile
+- [ ] Make header menu look less weird in thin screen/mobile - top and bottom padding? resizing?
+- [ ] Add SIO to research page
+- [ ] Add WSN25 presentation to publications & presentations page, and try to get a pic of my talk for research
+- [ ] Add more images (lab group photos) to research page
+  - [ ] Check attribution on Hollings symposium pic
+  - [ ] Find PMEL intern group photo
 
 ### Basic Formatting
 
@@ -22,8 +27,6 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] Teaching & Outreach
 - [x] Add GitHub and LinkedIn and ResearchGate links
 - [x] Upload images to GitHub repo - some of me doing research, some underwater kelp photography for front page
-  - [ ] Check attribution on Hollings symposium pic
-  - [ ] Find PMEL intern group photo
 
 ### Content
 
@@ -32,8 +35,7 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] ORCID, GitHub, ResearchGate, LinkedIn
   - [x] Contact info
 - [x] CV - Full CV just like the google doc
-- [ ] Publications & Presentations - list from CV, get PDFs of: 
-  - [ ] WSN25 presentation
+- [x] Publications & Presentations - list from CV, get PDFs of: 
   - [x] AGU24/Reed symposium poster
   - [x] WSN24 presentation
   - [x] OSM23 poster
