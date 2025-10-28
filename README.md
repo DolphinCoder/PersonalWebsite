@@ -3,6 +3,14 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 
 # Ella's Personal Website TODO
 
+### Troubleshooting/running to do list
+
+- [ ] Posters as images instead of pdfs
+- [ ] Add images of me to the homepage
+- [ ] Make nav bar have a button hover color
+- [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
+- [ ] Make header menu look less weird in thin screen/mobile
+
 ### Basic Formatting
 
 - [x] Create `index.html` and `style.css`
@@ -39,13 +47,6 @@ I am building a personal website for my CV and suchlike. It is a work in progres
   - [x] Kelp forest watercolor
   - [x] Greenboard mural
   - [x] Lab notebook pics from Naturecultures portfolio
-
-### Troubleshooting/running to do list
-
-- [ ] Posters as images instead of pdfs
-- [ ] Add images of me to the homepage
-- [ ] Make nav bar have a button hover color
-- [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
 
 ### Publishing
 - [x] Buy a domain (ideas include: ellacrottyocean.com, ellacrottyscience.com)
