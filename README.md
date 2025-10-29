@@ -5,8 +5,8 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 
 ### Troubleshooting/running to do list
 
-- [ ] Compress GoPro images on homepage
-- [ ] Posters as images instead of pdfs
+- [x] Compress GoPro images on homepage
+- [x] Posters as images instead of pdfs
 - [ ] Make nav bar have a button hover color
 - [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
 - [ ] Make header menu look less weird in thin screen/mobile - top and bottom padding? resizing?
