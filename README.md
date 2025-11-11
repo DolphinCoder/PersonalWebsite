@@ -5,17 +5,17 @@ I am building a personal website for my CV and suchlike. It is a work in progres
 
 ### Troubleshooting/running to do list
 
-- [x] Compress GoPro images on homepage
-- [x] Posters as images instead of pdfs
 - [ ] Make nav bar have a button hover color
 - [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
 - [ ] Make header menu look less weird in thin screen/mobile - top and bottom padding? resizing?
 - [ ] Add SIO to research page
-- [ ] Add WSN25 presentation to publications & presentations page, and try to get a pic of my talk for research
 - [ ] Add more images (lab group photos) to research page
   - [ ] Check attribution on Hollings symposium pic
   - [ ] Find PMEL intern group photo
 - [x] Add images of me to the homepage
+- [x] Add WSN25 presentation to publications & presentations page
+- [x] Compress GoPro images on homepage
+- [x] Posters as images instead of pdfs
 
 ### Basic Formatting
 
