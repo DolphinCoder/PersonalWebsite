@@ -1,5 +1,5 @@
 # PersonalWebsite
-I am building a personal website for my CV and suchlike. It is a work in progress.
+I made a website to learn HTML/CSS and display my CV in a public place.
 
 # Ella's Personal Website TODO
 
