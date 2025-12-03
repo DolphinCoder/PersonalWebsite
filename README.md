@@ -8,7 +8,7 @@ I made a website to learn HTML/CSS and display my CV in a public place.
 - [ ] Make nav bar have a button hover color
 - [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
 - [ ] Make header menu look less weird in thin screen/mobile - top and bottom padding? resizing?
-- [ ] Add SIO to research page
+- [x] Add SIO to research page
 - [ ] Add more images (lab group photos) to research page
   - [ ] Check attribution on Hollings symposium pic
   - [ ] Find PMEL intern group photo
