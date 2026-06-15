@@ -5,7 +5,12 @@ I made a website to learn HTML/CSS and display my CV in a public place.
 
 ### Troubleshooting/running to do list
 
+- [x] 2026 CV updates
+  - [x] Add CalCOFI sketchnotes to outreach page
+  - [x] Add more details to Semmens Lab section of CV
+  - [x] Add SWMS membership
 - [ ] Make nav bar have a button hover color
+- [ ] Change the color of the text for Linkedin etc. buttons - I don't like it as much on the buttons, but it's fine on the header. Also, ideally the text would be lighter when the button is being hovered over and turns darker
 - [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
 - [ ] Make header menu look less weird in thin screen/mobile - top and bottom padding? resizing?
 - [x] Add SIO to research page
