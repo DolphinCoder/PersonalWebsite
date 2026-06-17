@@ -5,20 +5,20 @@ I made a website to learn HTML/CSS and display my CV in a public place.
 
 ### Troubleshooting/running to do list
 
-- [x] 2026 CV updates
-  - [x] Add CalCOFI sketchnotes to outreach page
-  - [x] Add more details to Semmens Lab section of CV
-  - [x] Add SWMS membership
 - [ ] Make nav bar have a button hover color
 - [ ] Stop the clicked links from being purple
 - [ ] More space above the buttons on the homepage
 - [ ] Change the color of the text for Linkedin etc. buttons - I don't like it as much on the buttons, but it's fine on the header. Also, ideally the text would be lighter when the button is being hovered over and turns darker
 - [ ] Make title "ELLA CROTTY" link to homepage WITHOUT UNDERLINING
 - [ ] Make header menu look less weird in thin screen/mobile - top and bottom padding? resizing?
-- [x] Add SIO to research page
 - [ ] Add more images (lab group photos) to research page
   - [ ] Check attribution on Hollings symposium pic
   - [ ] Find PMEL intern group photo
+- [x] Add SIO to research page
+- [x] 2026 CV updates
+  - [x] Add CalCOFI sketchnotes to outreach page
+  - [x] Add more details to Semmens Lab section of CV
+  - [x] Add SWMS membership
 - [x] Add images of me to the homepage
 - [x] Add WSN25 presentation to publications & presentations page
 - [x] Compress GoPro images on homepage
